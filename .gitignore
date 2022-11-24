@@ -1,0 +1,9 @@
+*.tmp
+[._]*.sw[a-p]
+
+*.svg
+*.eps
+
+renders/
+**w/
+**h/
